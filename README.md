@@ -5,7 +5,7 @@ I'm a DevOps engineers at @soprasteria
 - 🔭 I’m currently working on building my kubernetes infrastrures and my new game
 - 🌱 I’m currently learning Godot engine
 - 💬 Ask me about anything
-- 📫 How to reach me: [mailto](mailto:emilydelormefr@gmail.com) 
+- 📫 How to reach me: [emilydelormefr@gmail.com](mailto:emilydelormefr@gmail.com) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I use arch BTW (it's okey to use others OS too ♥️)
 
