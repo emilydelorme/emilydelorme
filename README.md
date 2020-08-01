@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Emily 👋
 
-<!--
-**emilydelorme/emilydelorme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps engineers at @soprasteria
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building my kubernetes infrastrures and my new game
+- 🌱 I’m currently learning Godot engine
+- 💬 Ask me about anything
+- 📫 How to reach me: [mailto](mailto:emilydelormefr@gmail.com) 
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I use arch BTW (it's okey to use others OS too ♥️)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilydelorme&layout=compact&theme=buefy)
+
+![Emily's github stats](https://github-readme-stats.vercel.app/api?username=emilydelorme&count_private=true&show_icons=true&theme=buefy)
+
+---
+
+[linkedin]: https://linkedin.com/in/emily-delorme
