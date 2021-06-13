@@ -1,6 +1,6 @@
 ### Hi there, I'm Emily 👋
 
-I'm a DevOps engineers at @soprasteria
+I'm a DevOps engineer
 
 - 🔭 I’m currently working on building my kubernetes infrastrures and my new game
 - 🌱 I’m currently learning Godot engine
